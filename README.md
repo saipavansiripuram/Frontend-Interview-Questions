@@ -215,7 +215,7 @@ export class ExampleComponent implements OnInit, OnDestroy {
   }
 
 }
-
+```
 In Angular, the lifecycle hooks are methods that Angular calls at certain points in the lifecycle of a component or directive. These hooks allow you to perform actions at specific moments, such as initialization, change detection, content projection, and destruction of the component or directive.
 
 Here's a brief overview of the lifecycle hooks in Angular:
