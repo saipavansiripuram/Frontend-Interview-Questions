@@ -1,4 +1,3 @@
-# Frontend-Interview-Questions
 
 # Web Development Interview Questions and Answers
 
