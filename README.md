@@ -1,4 +1,3 @@
-
 # Frontend Interview Questions 
 
 ## HTML:
